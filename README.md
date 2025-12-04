@@ -11,4 +11,4 @@
 1. press F1 once in game to open the menu
 2. select what weapon/ability/or location to teleport to in the menu
 3. then select add ability/weapon/teleport
-4. you can rest weapons and abilities by clicking the reset weapon/ability buttons
+4. you can reset weapons and abilities by clicking the reset weapon/ability buttons

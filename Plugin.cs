@@ -304,6 +304,10 @@ public class Plugin : BaseUnityPlugin
         }
 
         status.ResetAbility();
+        // need to re add player movement and jumping or you cant move the player
+        status.SetAbility(0, true);
+        status.SetAbility(1, true);
+        status.SetAbility(2, true);
         Logger.LogInfo("Abilities Reset");
     }
 }
